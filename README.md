@@ -1,3 +1,4 @@
+![LGTM Grade](https://img.shields.io/lgtm/grade/python/github/Hystersis/Pygame-Event-Manager)
 # Sushi Dodger
 This is a free wrapper for the default PyGame event wrapper, with a range of functions allowing for a more streamlined use of the event system. It minimizes overdrawing - where other parts of the code take out events that are needed to be acted upon by another system. It instead uses function-based code calling on event entering.
 
