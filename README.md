@@ -24,4 +24,4 @@ Look at the [wiki](https://github.com/Hystersis/Pygame-Event-Manager/wiki) for m
 3. Call `name_of_var()` in the update loop of your game to run all the events through it 
 
 
-[MIT](/license) © [Hystersis](https://github.com/Hystersis)
+[MIT](/LICENSE) © [Hystersis](https://github.com/Hystersis)
