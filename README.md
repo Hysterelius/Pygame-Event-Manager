@@ -24,7 +24,4 @@ Look at the [wiki](https://github.com/Hystersis/Pygame-Event-Manager/wiki) for m
 3. Call `name_of_var()` in the update loop of your game to run all the events through it 
 
 
-## Credits:
-Entirely made by [Hystersis](https://github.com/Hystersis), and you are free to use this code anywhere.
-
-**Please star this repo if you found it helpful, or if you didn't find it helpful i.e. you found a bug, please post an [issue](https://github.com/Hystersis/Pygame-Event-Manager/issues)**
+[MIT](/license) © [Hystersis](https://github.com/Hystersis)
